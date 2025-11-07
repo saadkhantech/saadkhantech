@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Saad Khan 👋
 
-<!--
-**saadkhantech/saadkhantech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate web and app developer currently embarking on my journey through university. As a future entrepreneur, my ultimate goal is to start a company and build amazing products that make a difference.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+I have experience working with a variety of technologies, and I'm always eager to learn and grow. Some of my key skills include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **HTML & CSS**: Crafting responsive and user-friendly web pages.
+- **JavaScript**: Writing dynamic scripts to enhance web functionality.
+- **React.js**: Building interactive UIs and web applications.
+- **Node.js**: Backend development for building scalable apps.
+- **MySQL**: Efficiently managing and interacting with databases.
+- **Java (Future Skills)**: Expanding my skill set to include enterprise-level development.
+
+## 📚 Currently Learning
+As I begin my university journey, I'm diving deep into:
+
+- **Web and App Development**: Understanding the full stack and honing my skills to build end-to-end solutions.
+- **Business & Entrepreneurship**: I'm also studying how to launch and grow a tech startup.
+
+## 🎓 Courses & Certifications
+I'm always looking to improve my skills through courses and certifications. Here are a few notable ones:
+
+- **Web and App Development** (Current University Course)
+- Additional courses on **Full Stack Development**, **JavaScript**, and **React.js**.
+
+## 🎯 My Goal
+My vision is clear: to **start a tech company** and create innovative products that improve people's lives. I'm passionate about using technology to solve real-world problems, and I’m determined to make an impact in the tech industry.
+
+## 📈 Let's Connect!
+If you’re interested in collaborating, discussing tech, or just want to connect, feel free to reach out. I’m open to learning from others and sharing my journey.
+
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [Saad Khan's LinkedIn](#)
+
+## 🌱 What’s Next for Me?
+- Continue learning **advanced web and app development**.
+- Build real-world projects to showcase my skills.
+- Start my own **startup** and develop innovative products.
+
+---
+
+Thanks for stopping by! 🚀
+
