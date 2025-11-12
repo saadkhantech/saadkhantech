@@ -30,8 +30,8 @@ My vision is clear: to **start a tech company** and create innovative products t
 ## 📈 Let's Connect!
 If you’re interested in collaborating, discussing tech, or just want to connect, feel free to reach out. I’m open to learning from others and sharing my journey.
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Saad Khan's LinkedIn](#)
+- Email: [saadkhan1h1@gmail.com](saadkhan1h1@gmail.com)
+- LinkedIn: [Saad Khan's LinkedIn](https://www.linkedin.com/in/saad-khan-8760b9294?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ## 🌱 What’s Next for Me?
 - Continue learning **advanced web and app development**.
